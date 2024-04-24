@@ -1,2 +1,2 @@
-#KimTaeHa
+KimTaeHa
 ---
